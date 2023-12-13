@@ -1,0 +1,4 @@
+* text=auto
+
+*.go text eol=crlf
+*.mod text eol=crlf
