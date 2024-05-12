@@ -1,5 +1,6 @@
-# My_go_utils
+# goutils
 
-go的小工具
+**go的通用的工具函数或工具类**
 
-struct转map: ``struct_to_map``
+### map:
+- struct转map: ``func struct2Map(st any, fields []string) map[any]any{...}``
